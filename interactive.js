@@ -111,7 +111,7 @@ function brianConfig(mode) {
             autoExecute('help');
             break;
         case 'mobile':
-            window.open('https://m.brianwalczak.com/');
+            window.open('https://m.brian.re/');
             brianConfig('start');
 
             break;
